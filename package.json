@@ -3,6 +3,9 @@
   "displayName": "Silmë",
   "description": "A modern simplistic dark theme",
   "version": "0.0.1",
+  "scripts": {
+    "deploy": "vsce publish --yarn"
+  },
   "engines": {
     "vscode": "^1.84.0"
   },
