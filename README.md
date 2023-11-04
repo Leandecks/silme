@@ -1,6 +1,6 @@
 ## Silmë
 
-[_**Download now!**_]()
+[_**Download now!**_](https://marketplace.visualstudio.com/items?itemName=leandecks.silme)
 
 A simple, modern, dark VSCode color theme!
 
