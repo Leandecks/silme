@@ -1,16 +1,12 @@
-# silme README
+## Silmë
 
-## Working with Markdown
+[_**Download now!**_]()
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+A simple, modern, dark VSCode color theme!
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+![](./showcase.png)   
 
-## For more information
+Developed by [Leandecks](https://leandecks.github.io), licensed under [MIT](README.md)
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+### Nomenclation
+Silme is a Quenya-elvish word that means starlight
