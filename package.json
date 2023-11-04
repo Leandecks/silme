@@ -2,7 +2,7 @@
   "name": "silme",
   "displayName": "Silmë",
   "description": "A modern simplistic dark theme",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "scripts": {
     "deploy": "vsce publish --yarn"
   },

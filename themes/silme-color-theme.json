@@ -8,7 +8,7 @@
 		"button.background": "#e76f51",
 		"button.foreground": "#F8F8F2",
 		"activityBar.background": "#162129",
-		"sideBar.background": "#1b2b34",
+		"sideBar.background": "#162129",
 		"focusBorder": "#e76f51",
 		"foreground": "#F8F8F2",
 		"widget.border": "#e76f51",
@@ -27,7 +27,9 @@
 		"tab.inactiveBackground": "#1b2b34",
 		"editorCursor.foreground": "#e76f51",
 		"statusBar.background": "#162129",
-		"terminal.foreground": "#e76f51"
+		"terminal.foreground": "#e76f51",
+		"editorSuggestWidget.highlightForeground": "#e76f51",
+		"editorSuggestWidget.focusHighlightForeground": "#1b2b34",
 		},
 	"tokenColors": [
 		{
