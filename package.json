@@ -1,0 +1,26 @@
+{
+  "name": "silme",
+  "displayName": "Silmë",
+  "description": "A modern simplistic dark theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "publisher": "leandecks",
+  "categories": [
+    "Themes"
+  ],
+  "galleryBanner": {
+    "color": "#1b2b34",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "silme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/silme-color-theme.json"
+      }
+    ]
+  }
+}
