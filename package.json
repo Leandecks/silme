@@ -14,10 +14,19 @@
     "color": "#1b2b34",
     "theme": "dark"
   },
+  "bugs": {
+    "url": "https://github.com/Leandecks/silme/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Leandecks/silme"
+  },
+  "icon": "icon.png",
+  "keywords": ["silme","leandecks","dark","night","modern"],
   "contributes": {
     "themes": [
       {
-        "label": "silme",
+        "label": "Silmë",
         "uiTheme": "vs-dark",
         "path": "./themes/silme-color-theme.json"
       }
